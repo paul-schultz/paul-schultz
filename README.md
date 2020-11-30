@@ -5,4 +5,6 @@ After studying sustanability and energy policy in college I worked in the solar 
 
 Right now I am working on honing my Front End Development skills by completing projects for businesses and organizations, while dipping by toes into backend technologies like Node and React in the meantime.
 
+:page_with_curl:[Resume](https://drive.google.com/file/d/1BUalvLb1ps24dDaPSJvfgYurMdG6raxj/view)
+
 
